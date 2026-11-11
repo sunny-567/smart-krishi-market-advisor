@@ -1,2 +1,2 @@
 # smart-krishi-market-advisor
-Academic B.Tech Final Year Capstone Prototype
+Academic B.Tech 2nd year Year PBl Prototype
